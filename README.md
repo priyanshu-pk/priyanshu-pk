@@ -1,4 +1,4 @@
-Hi there 👋 I'm Priyanshu, 
+Hi there 👋 I'm Priyanshu, <br>
 a passionate Computer Science student and tech enthusiast.  
 I love building full-stack web applications, exploring new technologies, and solving real-world problems with code.  
 Currently diving deep into backend development, system design, and open-source contributions.  
