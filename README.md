@@ -1,6 +1,9 @@
-Hi, I'm Priyanshu Kumar
-Softwere Developer<br>
-Web Developer<br>
+Hi there 👋 I'm Priyanshu, 
+a passionate Computer Science student and tech enthusiast.  
+I love building full-stack web applications, exploring new technologies, and solving real-world problems with code.  
+Currently diving deep into backend development, system design, and open-source contributions.  
+Always curious. Always learning. Let's build something awesome together!<br>
+
 LinkedIn Link:- www.linkedin.com/in/priyanshu-kumar-23561929b
 
 
